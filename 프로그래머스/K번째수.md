@@ -76,6 +76,8 @@ function solution(array, commands) {
 
 : map 메서드와 filter, 구조분해할당을 사용해서 푼 코드.
 
+- [구조분해할당](https://github.com/kim-yejin20/TIL/blob/main/Javascript/%EA%B5%AC%EC%A1%B0%EB%B6%84%ED%95%B4%ED%95%A0%EB%8B%B9.md)
+
 <br>
 <br>
 <h3>또 다른 풀이</h3>
